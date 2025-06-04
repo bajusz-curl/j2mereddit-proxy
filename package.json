@@ -1,0 +1,12 @@
+{
+  "name": "reddit-proxy",
+  "version": "1.0.0",
+  "main": "reddit-proxy.js",
+  "scripts": {
+    "start": "node reddit-proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
